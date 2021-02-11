@@ -1,1 +1,7 @@
 
+Git clone: This command is used to clone a remote github repository itno our local system
+
+syntax:git clone url 
+    or
+    
+    git clone url .  -> .(dot) means only clones the files present inside that repo has specified url
