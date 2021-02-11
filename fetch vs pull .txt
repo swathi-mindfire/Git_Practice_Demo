@@ -1,1 +1,1 @@
-
+fetch vs pull commands helps to know if any chhanges made in remote repo
